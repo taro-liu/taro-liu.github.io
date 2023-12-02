@@ -12,6 +12,6 @@ I'm a third year undergraduate student from [Nanjing University’s Institute of
 
 I am very fortunate to be advised by [Prof. Lujing](https://acoustics.nju.edu.cn/rydw/szgk/js/lj/index.html) of AA Lab from [Nanjing University’s Institute of Acoustics](https://acoustics.nju.edu.cn/), Nanjing University. 
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here
 
 [Email](502022220097@smail.nju.edu.cn) / [Github](https://github.com/taro-liu) / [Wechat](../images/wechat.jpg) / 
