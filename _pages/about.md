@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [Nanjing University’s Institute of Acoustics](https://acoustics.nju.edu.cn/), [Scool of Physics](https://physics.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/). My research interest includes Sound source localization, Active noise control, and Human pose estimation.
+I'm a second year Master from [Nanjing University’s Institute of Acoustics](https://acoustics.nju.edu.cn/), [Scool of Physics](https://physics.nju.edu.cn/), [Nanjing University](https://www.nju.edu.cn/). My research interest includes Sound source localization, Active noise control, and Human pose estimation.
 
 I am very fortunate to be advised by [Prof. Lujing](https://acoustics.nju.edu.cn/rydw/szgk/js/lj/index.html) of AA Lab from [Nanjing University’s Institute of Acoustics](https://acoustics.nju.edu.cn/), Nanjing University. 
 
